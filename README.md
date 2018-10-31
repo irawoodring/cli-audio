@@ -9,6 +9,7 @@ Requires pyaudio and curses.  curses is usually built-in.  pyaudio easily instal
 
 ```
 python -m pip install pyaudio
+python -m pip install windows-curses
 ```
 
 Via the pyaudio website.
